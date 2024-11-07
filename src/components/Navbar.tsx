@@ -2,7 +2,7 @@
 import React from "react"
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 import { useState } from "react";
-import { FaBullseye } from "react-icons/fa";
+
 
 const Navbar = () => {
   const [isMenuOpen , setIsMenuOpen] = useState(false)
