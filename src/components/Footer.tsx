@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import'../app/styles/footer.css';
 
 const Footer = () => {
   return (
-    <div className='mt-16 py-6 text-center bg-accent'>
+    <div className='footer'>
         @ Chippa | All rights reserved 2024.
     </div>
   )
